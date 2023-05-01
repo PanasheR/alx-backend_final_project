@@ -1,7 +1,8 @@
 # TauraiChat - Chat Application with Node.js and Socket.io
+### By Panashe Rusakaniko - AlX - Foundations program
 
 ## How to build and run the app
- - ### Clone this repo. After confirming that package.json is available
+ - ### Clone this repo. Make sure package.json is available
  ``` 
  npm install
  ```
